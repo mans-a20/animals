@@ -1,0 +1,4 @@
+pet animals:
+1-Hamster.
+2-Cat.
+3-Dog.
