@@ -1,0 +1,4 @@
+zoo animals:
+1-Camels.
+2-lion.
+3-snak.
